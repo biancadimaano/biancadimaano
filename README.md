@@ -1,4 +1,6 @@
-## Hi there 👋
+## :relaxed: Hello World, I'm Bianca! 
+I am a third year student at SFU working towards a Bachelor of Science in Computer Science with a minor in Interactive Arts and Technology.\
+I am an aspiring software engineer with a creative mindset and a passion for user experience!
 
 <!--
 **biancadimaano/biancadimaano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
