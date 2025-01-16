@@ -1,4 +1,4 @@
-## :relaxed: Hello World, I'm Bianca! 
+## Hello World, I'm Bianca! :relaxed: 
 I am an aspiring software engineer with a creative mindset and a passion for user experience!
 
 <!--
