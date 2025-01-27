@@ -12,7 +12,7 @@
 &ensp;🔭 Learning more about networking (TCP/IP, etc.), multimedia systems, and UX research in my courses<br>
 &ensp;👯 Making fun projects at hackathons!<br>
 &ensp;✏️ Hosting workshops on Figma & Web dev for hackathon beginners
-<br><br><br>
+<br><br>
 <h2>Languages and Tools</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&emsp;
