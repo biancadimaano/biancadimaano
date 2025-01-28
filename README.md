@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam41bTF5bTYwcWs1ZDV5M3ZubDdkYmtseHJwYnhkeGJpMDM5M3Z2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZCes4khR2025X0rOLY/giphy.gif" alt="Black and white cartoon cat typing on a laptop" height="350px">
   <h1>hi, i'm bianca!👋</h1>
-  Feel free to connect with me on <a href="" style="backgroundColor:blue">LinkedIn</a> or view my <a href="">my website</a>!
+  Feel free to connect with me on <a href="https://www.linkedin.com/in/biancadimaano/" style="backgroundColor:blue">LinkedIn</a> or view my <a href="https://biancadimaano.netlify.app/">my website</a>!
 </div> 
 <br><br>
 <h2>About Me</h2>
