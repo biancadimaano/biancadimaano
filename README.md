@@ -9,9 +9,10 @@
 <p>A few things I am working on right now are: </p>
 &ensp;💻 Developing a website for an SFU club<br>
 &ensp;🌱 Developing a web app that allows people to check the live status of a club space<br> 
+&ensp;📬 Developing a study and deadline management web app website<br> 
 &ensp;🔭 Learning more about networking, multimedia systems, and UI design + UX research in my courses<br>
-&ensp;👯 Making fun projects at hackathons!<br>
-&ensp;✏️ Hosting workshops on Figma & Web dev for hackathon beginners
+&ensp;🤖 Making fun projects at hackathons<br>
+&ensp;🍎 Hosting workshops for hackathon beginners
 <br><br>
 <h2>Languages and Tools</h2>
 <div>
